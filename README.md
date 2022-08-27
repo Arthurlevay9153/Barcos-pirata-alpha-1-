@@ -1,1 +1,3 @@
-# Barcos-pirata-alpha-1-
+# PiratesInvasionStage-6
+
+adding sounds and score
